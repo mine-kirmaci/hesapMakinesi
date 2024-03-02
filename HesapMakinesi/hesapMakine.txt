@@ -1,0 +1,18 @@
+5*4=20
+8/2=4.0
+6.0/4.0=1.5
+9.0/7.0=1.2857142857142858
+2024-03-02 14:34:11.450150 5.0-7.0=-2.0
+02.03.2024  14:14 5.0+3.0=8.0
+02.03.2024  14:14 6*9.0=54.0
+02.03.2024  14:14 3+7=10.0
+02.03.2024  14:14 -6*5=-30.0
+02.03.2024  15:15 5/0=Sýfýra bölme hatasý
+02.03.2024  15:15 284/0=Sifira bolme hatasi
+Hatali giris. Lütfen dogru formatta giriniz02.03.2024  15:15 258*471=121518.0
+Hatali giris. Lutfen dogru formatta giriniz
+02.03.2024  15:15 25*78=1950.0
+02.03.2024  15:15 25*5=125.0
+Hatali giris. Lutfen dogru formatta giriniz
+02.03.2024  15:15 5-9=-4.0
+02.03.2024  15:15Hatali giris. Lutfen dogru formatta giriniz
